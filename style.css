@@ -473,9 +473,9 @@ font-family: "Poppins", sans-serif;
 
 
 @media (max-width:1100px) {
-    /* #menu{
+    #menu{
         display: none;
-    } */
+    }
     #food{
         position: relative;
         
